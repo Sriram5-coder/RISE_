@@ -209,6 +209,11 @@ nav .icon-burger .line {
 			0% {opacity: 0; margin-left: -20px}
 			100% {opacity: 1; margin-left: 0px}
 		  }
+
+@media screen and (min-width:600px) and (max-width:800px){
+	  .Dip{width: 100%;}}
+
+
  /*...............footer............*/
  .footer{height:100px;padding:5px;margin:5px;background-color: orange}
  .footer h5{margin-top:10px;padding: 10px;}
