@@ -192,7 +192,8 @@ nav .icon-burger .line {
       padding: 15px;
       }
    
-  
+  @media screen and (min-width:600px) and (max-width:800px){
+	  .contact{width: 100%;}}
     
     
     
